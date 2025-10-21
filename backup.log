@@ -1,0 +1,12 @@
+sending incremental file list
+./
+file1.txt
+
+sent 131 bytes  received 38 bytes  338.00 bytes/sec
+total size is 0  speedup is 0.00
+Backup completed on 2025 ඔක්තෝබර් 21 වැනි අඟහරුවාදා 21:18:32 +0530
+sending incremental file list
+
+sent 85 bytes  received 12 bytes  64.67 bytes/sec
+total size is 0  speedup is 0.00
+Backup completed on 2025 ඔක්තෝබර් 21 වැනි අඟහරුවාදා 23:00:25 +0530
